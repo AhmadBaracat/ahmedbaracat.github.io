@@ -274,6 +274,12 @@ a.twitter-username:before {
   text-align: justify;
 }
 
+// Added first-child to not style the Amazon Ads pixel 
+// part of using the Amazon plugin to generate img associate links
+.books a img:first-child {
+  width: 100px;
+}
+
 .pinterest {
   margin-top: 10px;
 }
