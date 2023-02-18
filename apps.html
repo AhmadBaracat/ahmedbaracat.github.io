@@ -2,92 +2,98 @@
 layout: null
 ---
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>Apps & Games</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="UTF-8">
+  <title>Apps & Games</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 </head>
+
 <body>
-    {% include header.html %}
+  {% include header.html %}
 
-    <section class="home">
-        <h2>
-            Apps & Games
-        </h2>
+  <section class="home">
+    <h1>
+      Apps & Games
+    </h1>
 
-        <ul class="apps">
-            {% for app in site.data.apps %}
-            <li>
-                <div class="appContainer">
-                    <div class="appLeftColumn">
-                        <img class="appIcon" src="{{ app.icon }}" alt="{{ app.name }}">
-                    </div>
+    <ul class="apps">
+      {% for app in site.data.apps %}
+      <li>
+        <div class="appContainer">
+          <div class="appLeftColumn">
+            <img class="appIcon" src="{{ app.icon }}" alt="{{ app.name }}">
+          </div>
 
-                    <div class="appRightColumn">
-                        <div class="appTitle">
-                            {{ app.name }}
-                            <span>
-                ({{ app.year }})
+          <div class="appRightColumn">
+            <div class="appTitle">
+              {{ app.name }}
+              <span>
+                (
+                {{ app.year }})
               </span>
-                            {% if app.users%}
-                            <span>
-                [{{ app.users }}]
+              {% if app.users%}
+              <span>
+                [
+                {{ app.users }}]
               </span>
-                            {% endif %}
-                        </div>
+              {% endif %}
+            </div>
 
-                        {% if app.description%}
-                        <div class="appDescription">
-                            {{ app.description }}
-                        </div>
-                        {% endif %}
+            {% if app.description%}
+            <div class="appDescription">
+              {{ app.description }}
+            </div>
+            {% endif %}
 
-                        {% if app.achievements%}
-                        <div class="appAchievements">
-                            {% for achievement in app.achievements %}
-                            <div class="appAchievement">
-                                ● {{ achievement.text}}
-                            </div>
-                            {% endfor %}
-                        </div>
-                        {% endif %}
+            {% if app.achievements%}
+            <div class="appAchievements">
+              {% for achievement in app.achievements %}
+              <div class="appAchievement">
+                ●
+                {{ achievement.text}}
+              </div>
+              {% endfor %}
+            </div>
+            {% endif %}
 
-                        {% if app.media%}
-                        {% for media in app.media %}
-                        <div class="appMedia">
-                            <a href="{{ media.url }}" target="_blank" rel="external nofollow">{{media.title}}</a>
-                        </div>
-                        {% endfor %}
-                        {% endif %}
-
-                        <div class="appDownload">
-                            {% if app.notInAStore%}
-                            <img class="aDownloadBadge inactive" src="assets/AppleBadge.svg" alt="Get it on the Apple Store"/>
-                            {% elsif app.aUrl%}
-                            <a href="{{ app.aUrl }}" target="_blank" rel="external nofollow"><img class="aDownloadBadge" src="assets/AppleBadge.svg" alt="Get it on the Apple Store"  /></a>
-                            {% endif %}
-
-
-                            {% if app.notInPStore%}
-                            <img class="pDownloadBadge inactive" src="assets/AndroidBadge.png" alt="Get it on Google Play"  />
-                            {% elsif app.pUrl%}
-                            <a href="{{ app.pUrl }}" target="_blank" rel="external nofollow"><img class="pDownloadBadge" src="assets/AndroidBadge.png" alt="Get it on Google Play"  /></a>
-                            {% endif %}
-
-                            {% if app.notInWStore%}
-                            <img class="wDownloadBadge inactive" src="assets/W10Badge.png" alt="Get it on Windows 10" />
-                            {% elsif app.wUrl%}
-                            <a href="{{ app.wUrl }}" target="_blank" rel="external nofollow"><img class="wDownloadBadge" src="assets/W10Badge.png" alt="Get it on Windows 10" /></a>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-            </li>
+            {% if app.media%}
+            {% for media in app.media %}
+            <div class="appMedia">
+              <a href="{{ media.url }}" target="_blank" rel="external nofollow">{{media.title}}</a>
+            </div>
             {% endfor %}
-        </ul>
-    </section>
-    {% include footer.html %}
+            {% endif %}
+
+            <div class="appDownload">
+              {% if app.notInAStore%}
+              <img class="aDownloadBadge inactive" src="assets/AppleBadge.svg" alt="Get it on the Apple Store" />
+              {% elsif app.aUrl%}
+              <a href="{{ app.aUrl }}" target="_blank" rel="external nofollow"><img class="aDownloadBadge" src="assets/AppleBadge.svg" alt="Get it on the Apple Store" /></a>
+              {% endif %}
+
+
+              {% if app.notInPStore%}
+              <img class="pDownloadBadge inactive" src="assets/AndroidBadge.png" alt="Get it on Google Play" />
+              {% elsif app.pUrl%}
+              <a href="{{ app.pUrl }}" target="_blank" rel="external nofollow"><img class="pDownloadBadge" src="assets/AndroidBadge.png" alt="Get it on Google Play" /></a>
+              {% endif %}
+
+              {% if app.notInWStore%}
+              <img class="wDownloadBadge inactive" src="assets/W10Badge.png" alt="Get it on Windows 10" />
+              {% elsif app.wUrl%}
+              <a href="{{ app.wUrl }}" target="_blank" rel="external nofollow"><img class="wDownloadBadge" src="assets/W10Badge.png" alt="Get it on Windows 10" /></a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% include footer.html %}
 </body>
+
 </html>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="assets/smooth_scrolling.js"></script>
