@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Courses</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+</head>
+
+<body>
+  {% include header.html %}
+
+  <section class="home">
+    <h1>
+      Reading
+    </h1>
+    <h2>
+      What I've Read / Still Reading
+    </h2>
+    <div class="books">
+      {% include books.html %}
+    </div>
+  </section>
+
+  {% include footer.html %}
+</body>
+
+</html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="assets/smooth_scrolling.js"></script>
