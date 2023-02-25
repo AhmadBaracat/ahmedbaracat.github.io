@@ -23,7 +23,6 @@ Open a bank account with a well known "physical" bank (ex: HSBC, Barclays, etc.)
 ### Why have a physical bank account with a reputable bank
 
 - Helps later on with getting a mortgage, loan, etc.
-
 - Ability to visit the branch and talk with humans for financial advice
 
 ### Why have a digital bank account
