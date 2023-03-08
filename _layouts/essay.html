@@ -1,17 +1,41 @@
 <!doctype html>
 <html>
+
 <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta charset="utf-8">
+  <title>
+    {{ page.title }}
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}" />
+  <meta property="fb:admins" content="900430528">
+  <meta property="og:site_name" content="Ahmad Baracat">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  <meta property="og:type" content="article">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:url" content="{{ site.baseurl }}/{{ page.permalink }}">
+  <meta property="article:published_time" content="{{ page.date }}">
+  <meta property="article:author" content="Ahmad Baracat">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+  <meta name="twitter:image" content="/assets/london_profile_circular_500.png">
+  <meta name="twitter:site" content="@ahmadbaracat">
+  <meta name="twitter:creator" content="@ahmadbaracat">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
 </head>
+
 <body>
-    {% include header.html %}
-    <section class="home">
-        {{ content }}
-    </section>
-    {% include footer.html %}
+  {% include header.html %}
+  <section class="home">
+    {{ content }}
+  </section>
+  {% include footer.html %}
 </body>
+
 </html>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/assets/smooth_scrolling.js"></script>
