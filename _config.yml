@@ -18,9 +18,9 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Ahmed Baracat personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://localhost:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://barac.at" # the base hostname & protocol for your site
+twitter_username: ahmadbaracat
+github_username: ahmadbaracat
 host: 0.0.0.0
 
 # Build settings
