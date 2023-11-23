@@ -6,10 +6,10 @@
   image: assets/books/Adrift_on_the_Nile.jpg
 - name: "12 Rules for Life"
   author: "Jordan Peterson"
-  image: assets/books/12_Rules_for_life.jpg
+  image: assets/books/12_Rules_for_Life.jpg
 - name: "Who Owns The Future?"
   author: "Jaron Lanier"
-  image: assets/books/Who_Owns_the_Future.jpg
+  image: assets/books/Who_Owns_The_Future.jpg
 - name: "A Million Miles in a Thousand Years"
   author: "Donald Miller"
   image: assets/books/A_Million_Miles_in_a_Thousand_Years.jpg
