@@ -1,16 +1,20 @@
 ---
 share: true
+layout: essay
 title: Cost of GPU Machines
 date: 2024-02-03
 filename: 2024-02-03-cost-of-gpu-machines
+permalink: /essays/cost-of-gpu-machines
 tags:
   - obsidian
 ---
 ---
 share: true
-title: "Cost of GPU Machines"
+layout: essay
+title: Cost of GPU Machines
 date: 2024-02-03
 filename: "2024-02-03-cost-of-gpu-machines"
+permalink: /essays/cost-of-gpu-machines
 tags: [obsidian]
 ---
 
