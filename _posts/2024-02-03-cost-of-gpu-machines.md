@@ -9,6 +9,7 @@ tags:
   - obsidian
 ---
 
+# Cost of GPU Machines
 
 |  | GPU | Cost |
 | -- | -- | -- |
