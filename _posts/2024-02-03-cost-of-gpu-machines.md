@@ -11,6 +11,8 @@ tags:
 
 # Cost of GPU Machines
 
+(Testing Obsidian and layout)
+
 |  | GPU | Cost |
 | -- | -- | -- |
 | Lambda (USA) | 1x 4090 | $5400 |
