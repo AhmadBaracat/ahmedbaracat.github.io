@@ -9,4 +9,6 @@ tags:
   - obsidian
 ---
 
+# Test Linking A
+
 [Test Linking A](/essays/test-linking-a) linking to [Test Linking B](/essays/test-linking-b)
