@@ -12,6 +12,7 @@ tags:
 # Playing with table layout
 
 ## Table 1
+
 |  | GPU | Cost |
 | -- | -- | -- |
 | Lambda (USA) | 1x 4090 | $5400 |
