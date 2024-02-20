@@ -124,6 +124,13 @@ table {
   border-collapse: collapse;
 }
 
+table {
+  // Adjust class names based on your theme's HTML structure
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
 @media all and (max-width: 660px) {
   h1 {
     font-size: 1.5rem;
