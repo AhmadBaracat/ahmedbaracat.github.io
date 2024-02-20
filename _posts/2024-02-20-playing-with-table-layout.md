@@ -11,6 +11,7 @@ tags:
 
 # Playing with table layout
 
+## Table 1
 
 |  | GPU | Cost |
 | -- | -- | -- |
@@ -22,6 +23,8 @@ tags:
 |  | 2x A6000 Ada | $26600 |
 | House of Computers (UK) |  |  |
 
+
+## Table 2
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
