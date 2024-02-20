@@ -11,7 +11,7 @@ tags:
 
 # Playing with table layout
 
-
+## Table 1
 |  | GPU | Cost |
 | -- | -- | -- |
 | Lambda (USA) | 1x 4090 | $5400 |
@@ -22,6 +22,8 @@ tags:
 |  | 2x A6000 Ada | $26600 |
 | House of Computers (UK) |  |  |
 
+
+## Table 2
 
 |   |   |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
