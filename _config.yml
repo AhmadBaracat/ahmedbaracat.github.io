@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://barac.at" # the base hostname & protocol for your site
 twitter_username: ahmadbaracat
 github_username: ahmadbaracat
+profile_image_path: assets/profile_picture_2024_circular.png
 host: 0.0.0.0
 
 # Build settings
