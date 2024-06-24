@@ -84,7 +84,8 @@ summary,
 time,
 mark,
 audio,
-video {
+video,
+svg {
   margin: 0;
   padding: 0;
   border: 0;
@@ -92,6 +93,7 @@ video {
   font: inherit;
   vertical-align: baseline;
   color: #555;
+  fill: #555;
   font-family: "Whitney A", "Whitney B";
 }
 
@@ -246,6 +248,11 @@ h3 {
 
 .sections a:hover i {
   color: $accent-color;
+}
+
+.sections a:hover svg {
+  color: $accent-color;
+  fill: $accent-color;
 }
 
 body > {
