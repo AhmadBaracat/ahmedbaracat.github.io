@@ -19,7 +19,7 @@ So far I did the following:
   - [Subscribe to Proton Mail](#subscribe-to-proton-mail)
   - [Subscribe to VyprVPN](#subscribe-to-vyprvpn)
   - [Subscribe to Zoho](#subscribe-to-zoho)
-  - [Business Insurance from Bionic](#business-insurance-from-bionic)
+  - [Business Insurance](#business-insurance)
 
 
 
@@ -52,8 +52,8 @@ Cutting ties with Google and [here's why](https://boycott.thewitness.news/target
 * Based in India 🇮🇳
 * A good alternative to Google Workspace and Microsoft 365
 
-### Business Insurance from Bionic
-* I went with business insurance from [Bionic](https://bionic.co.uk/business-insurance/)
+### Business Insurance
+* I went with business insurance from [QBE](https://www.qbe.com/us)
 
 
 \
