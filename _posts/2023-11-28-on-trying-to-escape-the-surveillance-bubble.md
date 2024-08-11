@@ -13,11 +13,13 @@ So far I did the following:
 
 - [Cutting ties (i.e. boycotting)](#cutting-ties-ie-boycotting)
   - [Amazon](#amazon)
+  - [AXA](#axa)
   - [Google](#google)
 - [Alternatives](#alternatives)
   - [Subscribe to Proton Mail](#subscribe-to-proton-mail)
   - [Subscribe to VyprVPN](#subscribe-to-vyprvpn)
   - [Subscribe to Zoho](#subscribe-to-zoho)
+  - [Business Insurance from Bionic](#business-insurance-from-bionic)
 
 
 
@@ -26,12 +28,16 @@ So far I did the following:
 Cutting ties with Amazon and [here's why](https://boycott.thewitness.news/target/amazon)
 * Cancel Amazon Prime subscription (I have been a prime member since 2017, heck I was a Software Engineer at Amazon Dynamic Ads and Amazon Alexa for more than 2 years) 
 
+### AXA
+Cutting ties with AXA and [here's why](https://boycott.thewitness.news/target/axa)
+* Cancel AXA company insurance
+
 ### Google
 Cutting ties with Google and [here's why](https://boycott.thewitness.news/target/google)
 * Cancel Google Youtube subscription
 * Cancel Google Workspace subscription (for [my company](https://pricelessai.com/)) and move to Zoho (India 🇮🇳 based business)
 * Use Brave/Safari browser instead of Google Chrome on macOS and iOS
-* Use Bing/DuckDuckGo instead of Google Search
+* Use DuckDuckGo instead of Google Search
 
 ## Alternatives
 ### Subscribe to Proton Mail
@@ -45,6 +51,10 @@ Cutting ties with Google and [here's why](https://boycott.thewitness.news/target
 ### Subscribe to Zoho
 * Based in India 🇮🇳
 * A good alternative to Google Workspace and Microsoft 365
+
+### Business Insurance from Bionic
+* I went with business insurance from [Bionic](https://bionic.co.uk/business-insurance/)
+
 
 \
 More to come, hopefully 🤞🏼
