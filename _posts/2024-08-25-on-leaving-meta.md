@@ -35,7 +35,7 @@ Leaving the products I’ve grown accustomed to using is another important step 
 <br>
 Signing out of the Meta-verse 😂.
 
-(The GIF below is created by  my manager and a collegue at Meta as a leaving gift 💝)
+(The GIF below is created by  my manager and a colleague at Meta as a leaving gift 💝)
 
 ![](/assets/LeavingMeta.gif)
 
