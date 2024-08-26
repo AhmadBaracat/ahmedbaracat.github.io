@@ -7,7 +7,7 @@ permalink: /essays/on-trying-to-escape-the-surveillance-bubble
 
 # On trying to escape the surveillance bubble
 
-The current situation in Palestine and how USA 🇺🇸 based social media are reacting to it (by [silencing opposing voices, shadow banning,](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report?utm_source=pocket_shared) etc.) is quite alarming 🚨. It got me to start doing concrete actions to cut as many ties with companies supporting the genocide (either directly or indirectly) while trying to escape the surveillance bubble (aka Surveillance Capitalism) while at it.
+The current situation in Palestine and how USA 🇺🇸 based social media are reacting to it (by [silencing opposing voices, shadow banning](https://www.theguardian.com/technology/2023/dec/21/meta-facebook-instagram-pro-palestine-censorship-human-rights-watch-report?utm_source=pocket_shared), [firing employees who raise concerns](https://www.nbcnews.com/tech/tech-news/former-meta-employee-sues-company-says-was-fired-raising-israel-gaza-c-rcna155639), etc.) is quite alarming 🚨. It got me to start doing concrete actions to cut as many ties with companies supporting the genocide (either directly or indirectly) while trying to escape the surveillance bubble (aka Surveillance Capitalism) while at it.
 
 So far I did the following:
 
