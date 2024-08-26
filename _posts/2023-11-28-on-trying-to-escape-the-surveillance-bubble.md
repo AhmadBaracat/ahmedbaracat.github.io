@@ -14,6 +14,7 @@ So far I did the following:
 - [Cutting ties (i.e. boycotting)](#cutting-ties-ie-boycotting)
   - [Amazon](#amazon)
   - [AXA](#axa)
+  - [Meta](#meta)
   - [Google](#google)
 - [Alternatives](#alternatives)
   - [Subscribe to Proton Mail](#subscribe-to-proton-mail)
@@ -27,10 +28,19 @@ So far I did the following:
 ### Amazon
 Cutting ties with Amazon and [here's why](https://boycott.thewitness.news/target/amazon)
 * Cancel Amazon Prime subscription (I have been a prime member since 2017, heck I was a Software Engineer at Amazon Dynamic Ads and Amazon Alexa for more than 2 years) 
+* Moved to using Ebay and Etsy
 
 ### AXA
 Cutting ties with AXA and [here's why](https://boycott.thewitness.news/target/axa)
 * Cancel AXA company insurance
+* Moved to [QBE](https://www.qbe.com/us)
+
+### Meta
+Cutting ties with Meta. I wrote a [lengthy artcile about why](/essays/on-leaving-meta).
+* WhatsApp --> Telegram (use Secret chats for E2E encryption) & Signal
+* WhatsApp for business --> Telegram business accounts
+* Instagram/Facebook stories --> Telegram Stories
+* Facebook groups --> Telegram groups
 
 ### Google
 Cutting ties with Google and [here's why](https://boycott.thewitness.news/target/google)
