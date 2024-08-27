@@ -48,6 +48,7 @@ Cutting ties with Google and [here's why](https://boycott.thewitness.news/target
 * Cancel Google Workspace subscription (for [my company](https://pricelessai.com/)) and move to Zoho (India 🇮🇳 based business)
 * Use Brave/Safari browser instead of Google Chrome on macOS and iOS
 * Use DuckDuckGo instead of Google Search
+* Use [Fathom Analytics](https://usefathom.com/ref/QTP4ZO) instead of Google Analytics
 
 ## Alternatives
 ### Subscribe to Proton Mail
