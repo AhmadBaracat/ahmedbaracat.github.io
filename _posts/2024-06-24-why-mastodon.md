@@ -9,4 +9,6 @@ permalink: /essays/why-mastodon
 
 Trying to escape the walled gardens 😂. 
 
+I am using [masto.host](https://masto.host/) to manage hosting Mastodon instance on my domain/subdomain. 
+
 Will add more details at a later time.
