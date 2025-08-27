@@ -24,7 +24,7 @@
 
 - name: Qebla
   year: 2015 - 2016
-  users: 2K+ users
+  users: 2K+ customers
   icon: assets/Qebla.png
   description: Qebla detection app with simple UI and subtle animations.
   achievements:
@@ -48,7 +48,7 @@
 
 - name: Inchy
   year: 2015
-  users: 60K+ users & 3.8+ rating
+  users: 60K+ players & 3.8+ rating
   icon: assets/Inchy.jpeg
   description: Casual arcade game with video game replays.
   achievements:
@@ -68,7 +68,7 @@
 - name: DesignTile
   year: 2014
   notInWStore: true
-  users: 9K+ users & 4.1 rating
+  users: 9K+ customers & 4.1 rating
   icon: assets/DesignTile.png
   description: Display 3 calendar events on the home screen tile instead of being limited to one (default WP calendar app).
   achievements:
@@ -76,7 +76,7 @@
 
 - name: Spookies
   year: 2014
-  users: 30K+ users & 4.2+ rating
+  users: 30K+ players & 4.2+ rating
   icon: assets/Spookies.png
   description: Endless side-scroller developed as a reaction to the huge number of Flappy Bird clones.
   achievements:
@@ -90,7 +90,7 @@
 
 - name: The Impossible Path
   year: 2013 - 2015
-  users: 90K+ users & 4.2 rating
+  users: 90K+ players & 4.2 rating
   icon: assets/TheImpossiblePath.png
   description: Test your visual memory and ability to steadily trace a path between two points.
   achievements:
@@ -103,7 +103,7 @@
 
 - name: Flipit & Guesit
   year: 2013
-  users: 15K+ users & 4.2+ rating
+  users: 15K+ players & 4.2+ rating
   notInWStore: true
   icon: assets/FlipitGuesit.png
   description: Flip the tiles and guess the images.
@@ -112,7 +112,7 @@
 
 - name: Bubblo World
   year: 2011 - 2012
-  users: 150K+ users & 4.2+ rating
+  users: 150K+ players & 4.2+ rating
   notInWStore: true
   icon: assets/BubbloWorld.png
   description: Puzzle game with 55 levels, hints system and cool animations.
